@@ -47,8 +47,9 @@
 		"@ljharb/eslint-config": "^22.2.1",
 		"covert": "^1.1.1",
 		"es5-shim": "^4.5.13",
-		"eslint": "^9.39.4",
+		"eslint": "^10.0.3",
 		"functions-have-names": "^1.2.1",
+		"jiti": "^0.0.0",
 		"safe-publish-latest": "^1.1.4",
 		"tape": "^5.0.0-next.4"
 	},
